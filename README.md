@@ -1,6 +1,7 @@
 ### Figury mierzalne - hierarchia klas i interfejsów (7 pkt.)
 
 > Autor: _Krzysztof Molenda_
+> 
 > Wersja: 1.2 (2019.09.01)
 
 Planujesz stworzyć aplikację typu edytor graficzny (dla 2 i 3 wymiarów, podobnie jak Paint3D w Windows 10 czy Geogebra).
